@@ -1,0 +1,79 @@
+
+.flex{
+    display: flex;
+}
+
+
+.items-center{
+align-items: center;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.uppercase{
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+
+.space-between{
+    justify-content: space-between;
+}
+
+input{
+    height: 20px;
+    width: 22vw;
+    padding: 4px 17px;
+    border: none;
+    background: #f6f2f2;
+    border-radius: 2px;
+}
+
+.mx-2{
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+.backgroud{
+    background: rgb(248, 248, 248);
+}
+
+.container{
+    padding: 0 10vw;
+    margin: auto;
+}
+
+.hero-banner{
+    width: 79vw;
+    margin: 10px;
+}
+
+
+.backgroud{
+padding: 0 10vw;
+margin: auto;
+background: rgb(248, 248, 248);
+}
+
+.item{
+    width: 15vw;
+    margin: 4px;
+}
+
+footer{
+    padding: 23px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.15)  1.95px 1.95px ;
+}
+
+.rightbox {
+    display: flex;
+    margin: 12px;
+}
+
+.tall{
+    min-height: 40vh;
+  }
+
+
